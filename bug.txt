@@ -1,0 +1,5 @@
+2017/03/26 kill-server的延迟 造成 转发 拖迟	
+【已解决】an_ser进程未正确关闭，需要kill  
+【已解决】am-start 在启动activity时，其路径需要优化要对比 是不是 包名+activity 还是包名+路径+activity
+
+2017/04/25 找不到android_server 无法自动push进去

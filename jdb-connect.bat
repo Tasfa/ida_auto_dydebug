@@ -1,0 +1,1 @@
+jdb -connect com.sun.jdi.SocketAttach:hostname=127.0.0.1,port=8700
